@@ -1,4 +1,4 @@
-# 🛒 Ecommerce Project
+# 🛒 Ecommerce Product Project
 
 This project is a .NET 6 Web API for managing an E-commerce system. It includes user authentication, role-based authorization, secure JWT tokens, and DTO mappings for clean architecture.
 
